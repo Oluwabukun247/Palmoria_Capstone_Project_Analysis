@@ -184,20 +184,3 @@ Prior to analysis, the following data preprocessing steps were executed:
 
 The analysis provides actionable insights into Palmoria’s workforce composition, compensation equity, and performance-linked bonuses. By **addressing gender disparities**, **ensuring compliance**, and **leveraging high-performing regions and demographics**, Palmoria can align better with evolving labor regulations and corporate responsibility goals.
 
----
-
-| Region | Gender      | Bonus ($) | % Share |
-|--------|-------------|-----------|---------|
-| Kaduna | Female      | 375,238   | 5.10%   |
-| Kaduna | Male        | 406,545   | 5.52%   |
-| Abuja  | Female      | 397,933   | 5.54%   |
-| Abuja  | Male        | 363,271   | 5.00%   |
-| Lagos  | Female      | 290,430   | 3.93%   |
-| Lagos  | Male        | 259,448   | 3.32%   |
-
-
-🟨 **Insight**:
-- **Female employees received slightly more bonus on average in Abuja and Kaduna**, aligning with their "Very Good" performance ratings.
-- **Lagos region lags in both bonus allocation and average performance**, signaling a possible issue with motivation or workforce management.
-
- 
