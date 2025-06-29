@@ -76,7 +76,7 @@ Prior to analysis, the following data preprocessing steps were executed:
 
 🔎 **Observation**:
 - **Female employees received more "Very Good" ratings** than males.
-- A **slightly higher concentration of males in "Poor" and "Very Poor"** categories may point to performance discrepancies that warrant further evaluation.
+- A **slightly higher concentration of males in "Poor" and "Very Poor"** ratings.
 
 ---
 
