@@ -184,3 +184,13 @@ Prior to analysis, the following data preprocessing steps were executed:
 
 The analysis provides actionable insights into Palmoria’s workforce composition, compensation equity, and performance-linked bonuses. By **addressing gender disparities**, **ensuring compliance**, and **leveraging high-performing regions and demographics**, Palmoria can align better with evolving labor regulations and corporate responsibility goals.
 
+
+
+
+
+
+## 👤 About Me
+
+**[Oluwabukola Aba]**  
+ Data Analyst | Insight-Driven Decision Making | Passionate about storytelling through data  
+[LinkedIn Profile](https://www.linkedin.com/in/oluwabukolaaba)
