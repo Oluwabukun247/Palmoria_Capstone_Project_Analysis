@@ -205,23 +205,4 @@ The analysis provides actionable insights into Palmoria’s workforce compositio
 - **Female employees received slightly more bonus on average in Abuja and Kaduna**, aligning with their "Very Good" performance ratings.
 - **Lagos region lags in both bonus allocation and average performance**, signaling a possible issue with motivation or workforce management.
 
----
-
-## ✅ Recommendations
-
-1. **Close the gender pay gap**:
-   - Conduct salary benchmarking and internal equity audits.
-   - Adjust pay in high-gap regions like **Kaduna** and **Lagos**.
-
-2. **Boost compliance with $90,000 salary regulation**:
-   - Consider upskilling or reclassifying lower-paid roles.
-   - Phase in a salary review plan for sub-threshold employees.
-
-3. **Capitalize on high-performing female talent**:
-   - Develop leadership pathways tailored to top-rated female employees.
-   - Promote inclusive management strategies.
-
-4. **Improve Lagos region compensation strategy**:
-   - Investigate causes for lower bonuses and pay.
-   - Align performance management and incentive systems.
-
+ 
