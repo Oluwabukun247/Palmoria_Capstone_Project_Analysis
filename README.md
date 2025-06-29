@@ -14,9 +14,9 @@ Prior to analysis, the following data preprocessing steps were executed:
 
 ## 🔧 Data Preparation & Transformation Steps
 
- **Tool Used** 
+ ### Tool Used
  
- PowerBI 
+- **PowerBI (Data Transformation and Visualization)**
 
 ### 📁 Datasets Used
 
@@ -67,7 +67,7 @@ Prior to analysis, the following data preprocessing steps were executed:
 | Rating         | Male | Female | Unspecified |
 |----------------|------|--------|-------------|
 | Average        | 212  | 190    | 18          |
-| Good           | 82   | 89     | 0           |
+| Good           | 82   | 89     | 9           |
 | Very Good      | 36   | 49     | 5           |
 | Poor           | 70   | 58     | 3           |
 | Very Poor      | 31   | 20     | 3           |
