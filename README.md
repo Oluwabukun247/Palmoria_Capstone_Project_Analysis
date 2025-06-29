@@ -49,7 +49,7 @@ Prior to analysis, the following data preprocessing steps were executed:
 ### 1. 🧍‍♂️🧍‍♀️ Gender Distribution
 
 **Organization-wide** gender distribution:
-- **Male:** 467 employees (49.4%)
+- **Male:** 465 employees (49.4%)
 - **Female:** 441 employees (46.6%)
 - **Unspecified:** 40 employees (4%)
 
