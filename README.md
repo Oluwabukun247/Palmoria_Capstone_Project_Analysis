@@ -1,6 +1,6 @@
 # Palmoria_Capstone_Project_Analysis
 
-# 🧑‍💼 Capstone Project: Gender-Based Workforce & Compensation Analysis in Palmoria Manufacturing
+# 🧑‍💼 Capstone Project: Gender-Based Workforce & Compensation Analysis in Palmoria Manufacturing Company 
 
 ## 📊 Project Overview
 
@@ -8,13 +8,14 @@ This analysis explores gender-related dynamics within Palmoria Manufacturing, fo
 
 ---
 
-## 📁 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 Prior to analysis, the following data preprocessing steps were executed:
 
 ## 🔧 Data Preparation & Transformation Steps
 
  **Tool Used** 
+ 
  PowerBI 
 
 ### 📁 Datasets Used
@@ -101,7 +102,6 @@ Prior to analysis, the following data preprocessing steps were executed:
 | Lagos  | Female       | 8,751,290        |
 | Lagos  | Unspecified  | 694,880          |
 
-📈 _Visualization: Grouped bar charts by gender & region._
 
 🟨 **Insight**:
 - A **mild gender pay gap exists**, with male employees consistently earning more across all regions.
@@ -121,8 +121,6 @@ Prior to analysis, the following data preprocessing steps were executed:
 | $30,000 - $40,000 | XX               |
 | ...               | ...              |
 | $100,000+         | XX               |
-
-📈 _Visualization: Histogram of salary bands across the workforce, broken down by region._
 
 🟨 **Insight**:
 - The **majority of employees fall below $90,000**, indicating a potential compliance and morale issue, especially under recent legal regulations.
@@ -146,8 +144,6 @@ Prior to analysis, the following data preprocessing steps were executed:
 | Abuja  | Male        | 363,271   | 5.00%   |
 | Lagos  | Female      | 290,430   | 3.93%   |
 | Lagos  | Male        | 259,448   | 3.32%   |
-
-📈 _Visualization: Stacked bar charts by region and gender._
 
 🟨 **Insight**:
 - **Female employees received slightly more bonus on average in Abuja and Kaduna**, aligning with their "Very Good" performance ratings.
@@ -199,7 +195,6 @@ The analysis provides actionable insights into Palmoria’s workforce compositio
 | Lagos  | Female      | 290,430   | 3.93%   |
 | Lagos  | Male        | 259,448   | 3.32%   |
 
-📈 _Visualization: Stacked bar charts by region and gender._
 
 🟨 **Insight**:
 - **Female employees received slightly more bonus on average in Abuja and Kaduna**, aligning with their "Very Good" performance ratings.
