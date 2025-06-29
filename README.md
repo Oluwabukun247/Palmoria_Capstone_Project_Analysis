@@ -114,13 +114,17 @@ Prior to analysis, the following data preprocessing steps were executed:
 
 **Grouped by $10,000 salary bands**, the distribution reveals:
 
-| Band ($)          | No. of Employees |
+| Salary Band          | No. of Employees|
 |-------------------|------------------|
-| $10,000 - $20,000 | XX               |
-| $20,000 - $30,000 | XX               |
-| $30,000 - $40,000 | XX               |
-| ...               | ...              |
-| $100,000+         | XX               |
+|  10,000 -  20,000 | --               |
+|  20,000 -  30,000 | 28               |
+|  30,000 -  40,000 | 101              |
+|  40,000 -  50,000 | 105              |
+|  50,000 -  60,000 | 96               |
+|  60,000 -  70,000 | 101              |
+|  70,000 -  80,000 | 117              |
+|  80,000 -  90,000 | 108              |
+|  100,000+         | 292              |
 
 🟨 **Insight**:
 - The **majority of employees fall below $90,000**, indicating a potential compliance and morale issue, especially under recent legal regulations.
